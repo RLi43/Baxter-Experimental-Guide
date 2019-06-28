@@ -2,6 +2,7 @@
 Baxter是一款研究型协作机器人，具有两只7自由度机械臂，安装有多种传感器。本实验指示书将带领你完成对Baxter的入门。
 
 >Baxter is a humanoid, anthropomorphic robot sporting two seven degree-of-freedom arms and state-of-the-art sensing technologies, including force, position, and torque sensing and control at every joint, cameras in support of computer vision applications, integrated user input and output elements such as a head-mounted display, buttons, knobs and more.
+
 ## 你需要/将会学会什么？
 * Linux简单操作
 * ROS入门
